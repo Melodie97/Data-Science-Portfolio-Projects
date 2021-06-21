@@ -1,2 +1,2 @@
-# First-Data-Science-Projects
+# Data-Science-Projects
 Here are some of the first data science projects I worked on
